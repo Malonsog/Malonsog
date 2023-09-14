@@ -13,8 +13,6 @@
 ## 👋 Introduction
 Hello, I'm Manuel Alonso, a Python developer on a journey to master the art of programming. I'm passionate about learning and applying my skills to real-world projects. This README is a glimpse into my journey and what I have to offer.
 
-!Manuel Alonso(https://raw.githubusercontent.com/Malonsog/Malonsog/9166863ac5601634c174102b33cf041cfb659c67/Perfil%2001.png)
-
 ---
 
 ## 🌱 Learning Journey
