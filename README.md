@@ -1,4 +1,4 @@
-# 👨‍💻 Manuel Alonso - Aspiring Python Developer 🚀
+# 👨‍💻 Manuel Alonso - Python Developer 🚀
 
 ## Table of Contents
 - [👋 Introduction](#-introduction)
@@ -13,7 +13,7 @@
 ## 👋 Introduction
 Hello, I'm Manuel Alonso, a Python developer on a journey to master the art of programming. I'm passionate about learning and applying my skills to real-world projects. This README is a glimpse into my journey and what I have to offer.
 
-!Manuel Alonso(link_to_profile_picture.png)
+!Manuel Alonso(https://raw.githubusercontent.com/Malonsog/Malonsog/9166863ac5601634c174102b33cf041cfb659c67/Perfil%2001.png)
 
 ---
 
@@ -30,16 +30,26 @@ Hello, I'm Manuel Alonso, a Python developer on a journey to master the art of p
 ## 💡 Skills
 I may be a junior developer, but I'm eager to learn and grow. Here are some of my current skills:
 
-![Python](https://img.shields.io/badge/Python-Expert-success?logo=python)
-![Web Development](https://img.shields.io/badge/Web%20Development-Intermediate-informational?logo=html5)
-![Database Management](https://img.shields.io/badge/Database%20Management-Intermediate-informational?logo=postgresql)
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Intermediate-informational?logo=pandas)
-![Git](https://img.shields.io/badge/Git-Proficient-success?logo=git)
 
-- **Python:** Learning and mastering Python programming.
+![Python](https://img.shields.io/badge/Python-Proficient-success?logo=python)  - Always learning and mastering Python programming!
+
+
+![SQL](https://img.shields.io/badge/SQL-Proficient-success?logo=mariadb) - Skilled in crafting and optimizing SQL queries to extract meaningful insights from complex databases.
+
+![Database Management](https://img.shields.io/badge/Database%20Management-Intermediate-informational?logo=postgresql) - Working knowledge of relational databases.
+
+![Web Development](https://img.shields.io/badge/Web%20Development-Basic-informational?logo=django) - 
+
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Intermediate-informational?logo=pandas) - I´m very passionate about Data Analysis and currently improving my knowledge!
+
+![Git](https://img.shields.io/badge/Git-Proficient-success?logo=git)  - Proficient in Git and GitHub for version control and collaboration.
+
+**Other skills**
+--
 - **Problem Solving:** Developing my problem-solving skills.
-- **Version Control:** Proficient in Git and GitHub.
 - **Collaboration:** Ready to work in a team and contribute effectively.
+- **Leadership:** I have experience in team leadership, and always strive to inspire and guide teams towards success.
+
 
 ---
 
@@ -83,9 +93,3 @@ I may be a junior developer, but I'm eager to learn and grow. Here are some of m
 Feel free to reach out to me if you'd like to connect, share insights, or explore collaboration opportunities. I'm excited to continue my journey and learn alongside passionate individuals in the tech community! 🚀
 
 ---
-
-
-<!---
-Malonsog/Malonsog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
