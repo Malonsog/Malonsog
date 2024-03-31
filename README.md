@@ -1,4 +1,6 @@
-# Manuel Alonso - Python Developer 🚀
+# Manuel Alonso - Software Engineer 🚀
+
+---
 
 ## Table of Contents
 
@@ -13,8 +15,10 @@
 
 ## 👋 About me
 
-Hello! I'm Manuel Alonso, a developer on a journey to master the art of programming. 
-I'm passionate about learning and applying my skills to real-world projects. 
+Hello! I'm Manuel Alonso, a Software Engineer on a journey to master the art of programming. 
+I am committed to writing clean, efficient, and maintainable code, and staying up-to-date with industry advancements.
+I'm passionate about learning and applying my skills to real-world projects, actively seeking new opportunities.
+
 This README is a glimpse into my journey and what I have to offer.
 
 ---
@@ -34,17 +38,20 @@ This README is a glimpse into my journey and what I have to offer.
 
 I'm always eager to learn and grow in my field. Here are some of my favorite tools and languages:
 
-<a href="https://www.python.org" target="_blank"><img alt="Python" height="42" width="42" src="https://cdn.simpleicons.org/python/#3776AB/ffffff" /></a>
-<img alt="Pandas" height="42" width="42" src="https://cdn.simpleicons.org/pandas/#3776AB/ffffff" />
-<img alt="Numpy" height="42" width="42" src="https://cdn.simpleicons.org/numpy/#3776AB/ffffff" />
-<img alt="Scikit-Learn" height="42" width="42" src="https://cdn.simpleicons.org/scikitlearn/#3776AB/ffffff" />
-<img alt="Django" height="42" width="42" src="https://cdn.simpleicons.org/django/#3776AB/ffffff" />
-<img alt="MySQL" height="42" width="42" src="https://cdn.simpleicons.org/mysql/#3776AB/ffffff" />
-<img alt="PHP" height="42" width="42" src="https://cdn.simpleicons.org/php/#3776AB/ffffff" />
-<img alt="Flask" height="42" width="42" src="https://cdn.simpleicons.org/flask/#3776AB/ffffff" />
-<img alt="HTML5" height="42" width="42" src="https://cdn.simpleicons.org/html5/#3776AB/ffffff" />
-<img alt="CSS3" height="42" width="42" src="https://cdn.simpleicons.org/css3/#3776AB/ffffff" />
-<img alt="Git" height="42" width="42" src="https://cdn.simpleicons.org/git/#3776AB/ffffff" />
+<a href="https://www.python.org" target="_blank"><img alt="Python" height="42" width="42" src="https://cdn.simpleicons.org/python/#3776AB/ffffff" /></a> &nbsp;&nbsp;
+<a href="https://jupyter.org" target="_blank"><img alt="Jupyter Notebook" height="42" width="42" src="https://cdn.simpleicons.org/jupyter/#3776AB/ffffff" /></a> &nbsp;&nbsp;
+<a href="https://www.djangoproject.com" target="_blank"><img alt="Django" height="42" width="42" src="https://cdn.simpleicons.org/django/#3776AB/ffffff" /></a> &nbsp;&nbsp;
+<a href="https://www.mysql.com" target="_blank"><img alt="MySQL" height="42" width="42" src="https://cdn.simpleicons.org/mysql/#3776AB/ffffff" /></a> &nbsp;&nbsp;
+<a href="https://www.php.net" target="_blank"><img alt="PHP" height="42" width="42" src="https://cdn.simpleicons.org/php/#3776AB/ffffff" /></a> &nbsp;&nbsp;
+<a href="https://www.html5.org" target="_blank"><img alt="HTML5" height="42" width="42" src="https://cdn.simpleicons.org/html5/#3776AB/ffffff" /></a> &nbsp;&nbsp;
+<a href="https://www.w3.org/Style/CSS/" target="_blank"><img alt="CSS3" height="42" width="42" src="https://cdn.simpleicons.org/css3/#3776AB/ffffff" /></a> &nbsp;&nbsp;
+<a href="https://getbootstrap.com/" target="_blank"><img alt="Bootstrap" height="42" width="42" src="https://cdn.simpleicons.org/bootstrap/#3776AB/ffffff" /></a> &nbsp;&nbsp;
+<a href="https://www.javascript.com" target="_blank"><img alt="JavaScript" height="42" width="42" src="https://cdn.simpleicons.org/javascript/#3776AB/ffffff" /></a> &nbsp;&nbsp;
+<a href="https://reactjs.org" target="_blank"><img alt="React" height="42" width="42" src="https://cdn.simpleicons.org/react/#3776AB/ffffff" /></a> &nbsp;&nbsp;
+<a href="https://git-scm.com" target="_blank"><img alt="Git" height="42" width="42" src="https://cdn.simpleicons.org/git/#3776AB/ffffff" /></a> &nbsp;&nbsp;
+<a href="https://tableau.com" target="_blank"><img alt="Tableau" height="42" width="42" src="https://cdn.simpleicons.org/tableau/#3776AB/ffffff" /></a> &nbsp;&nbsp;
+<a href="https://powerbi.microsoft.com" target="_blank"><img alt="Power BI" height="42" width="42" src="https://cdn.simpleicons.org/powerbi/#3776AB/ffffff" /></a> &nbsp;&nbsp;
+<a href="https://www.jetbrains.com/" target="_blank"><img alt="JetBrains" height="42" width="42" src="https://cdn.simpleicons.org/jetbrains/#3776AB/ffffff" /></a> &nbsp;&nbsp;
 
 ### Other skills
 
@@ -59,16 +66,19 @@ I'm always eager to learn and grow in my field. Here are some of my favorite too
 
 ### [Just - Camino al Origen](https://github.com/Malonsog/Just)
 
-<a href="https://raw.githubusercontent.com/Malonsog/Just/master/capturas/cap_01.png"><img src="https://raw.githubusercontent.com/Malonsog/Just/master/capturas/cap_01.png" alt="Captura de Pantalla 1" height="100"></a>
-<a href="https://raw.githubusercontent.com/Malonsog/Just/master/capturas/cap_03.png"><img src="https://raw.githubusercontent.com/Malonsog/Just/master/capturas/cap_03.png" alt="Captura de Pantalla 1" height="100"></a>
-<a href="https://raw.githubusercontent.com/Malonsog/Just/master/capturas/cap_04.png"><img src="https://raw.githubusercontent.com/Malonsog/Just/master/capturas/cap_04.png" alt="Captura de Pantalla 1" height="100"></a>
+<a href="https://raw.githubusercontent.com/Malonsog/Just/master/capturas/cap_01.png"><img src="https://raw.githubusercontent.com/Malonsog/Just/master/capturas/cap_01.png" alt="Captura de Pantalla 1" height="100"></a> &nbsp;&nbsp;
+<a href="https://raw.githubusercontent.com/Malonsog/Just/master/capturas/cap_03.png"><img src="https://raw.githubusercontent.com/Malonsog/Just/master/capturas/cap_03.png" alt="Captura de Pantalla 1" height="100"></a> &nbsp;&nbsp;
+<a href="https://raw.githubusercontent.com/Malonsog/Just/master/capturas/cap_04.png"><img src="https://raw.githubusercontent.com/Malonsog/Just/master/capturas/cap_04.png" alt="Captura de Pantalla 1" height="100"></a> &nbsp;&nbsp;
 
 - 💼 **Description:** Web page to view the goals and results of the consultants and leaders of Just, or the 'Path to Origin' promotion.
+
+
 - 🛠️ **Technologies Used:**&nbsp;&nbsp;
-  <img alt="HTML5" height="35" width="35" src="https://cdn.simpleicons.org/html5/#3776AB/ffffff" /> 
-  <img alt="CSS3" height="35" width="35" src="https://cdn.simpleicons.org/css3/#3776AB/ffffff" />
-  <img alt="PHP" height="35" width="35" src="https://cdn.simpleicons.org/php/#3776AB/ffffff" />
-  <img alt="MySQL" height="35" width="35" src="https://cdn.simpleicons.org/mysql/#3776AB/ffffff" />
+<a href="https://www.php.net" target="_blank"><img alt="PHP" height="42" width="42" src="https://cdn.simpleicons.org/php/#3776AB/ffffff" /></a> &nbsp;&nbsp;
+<a href="https://www.mysql.com" target="_blank"><img alt="MySQL" height="42" width="42" src="https://cdn.simpleicons.org/mysql/#3776AB/ffffff" /></a> &nbsp;&nbsp;
+<a href="https://www.html5.org" target="_blank"><img alt="HTML5" height="42" width="42" src="https://cdn.simpleicons.org/html5/#3776AB/ffffff" /></a> &nbsp;&nbsp;
+<a href="https://www.w3.org/Style/CSS/" target="_blank"><img alt="CSS3" height="42" width="42" src="https://cdn.simpleicons.org/css3/#3776AB/ffffff" /></a> &nbsp;&nbsp;
+<a href="https://getbootstrap.com/" target="_blank"><img alt="Bootstrap" height="42" width="42" src="https://cdn.simpleicons.org/bootstrap/#3776AB/ffffff" /></a> &nbsp;&nbsp;
 
 
 - 🌟 **Key Achievements:**
@@ -81,8 +91,12 @@ I'm always eager to learn and grow in my field. Here are some of my favorite too
 <a href="https://raw.githubusercontent.com/Malonsog/50_days_of_python/main/50_days_of_Python.png"><img src="https://raw.githubusercontent.com/Malonsog/50_days_of_python/main/50_days_of_Python.png" alt="50 days of Python book" height="100"></a>
 
 - 💼 **Description:** This repository contains my progress and solutions for the 50 Days of Python: A challenge a Day, by Benjamin Bennett Alexander.
+
+ 
 - 🛠️ **Technologies Used:**&nbsp;&nbsp;
-  <img alt="Python" height="35" width="35" src="https://cdn.simpleicons.org/python/#3776AB/ffffff" />
+<a href="https://www.python.org" target="_blank"><img alt="Python" height="42" width="42" src="https://cdn.simpleicons.org/python/#3776AB/ffffff" /></a> &nbsp;&nbsp;
+<a href="https://jupyter.org" target="_blank"><img alt="Jupyter Notebook" height="42" width="42" src="https://cdn.simpleicons.org/jupyter/#3776AB/ffffff" /></a> &nbsp;&nbsp;
+<a href="https://www.djangoproject.com" target="_blank"><img alt="Django" height="42" width="42" src="https://cdn.simpleicons.org/django/#3776AB/ffffff" /></a> &nbsp;&nbsp;
 
 
 - 🌟 **Key Achievements:**
