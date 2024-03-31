@@ -144,4 +144,5 @@ I'm always eager to learn and grow in my field. Here are some of my favorite too
 
 Feel free to reach out to me if you'd like to connect, share insights, or explore collaboration opportunities. 
 I'm excited to continue my journey and learn alongside passionate individuals in the tech community! 🚀
+
 ---
