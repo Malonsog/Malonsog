@@ -66,10 +66,6 @@ I'm always eager to learn and grow in my field. Here are some of my favorite too
 
 ### [Just - Camino al Origen](https://github.com/Malonsog/Just)
 
-<a href="https://raw.githubusercontent.com/Malonsog/Just/master/capturas/cap_01.png"><img src="https://raw.githubusercontent.com/Malonsog/Just/master/capturas/cap_01.png" alt="Captura de Pantalla 1" height="100"></a> &nbsp;&nbsp;
-<a href="https://raw.githubusercontent.com/Malonsog/Just/master/capturas/cap_03.png"><img src="https://raw.githubusercontent.com/Malonsog/Just/master/capturas/cap_03.png" alt="Captura de Pantalla 1" height="100"></a> &nbsp;&nbsp;
-<a href="https://raw.githubusercontent.com/Malonsog/Just/master/capturas/cap_04.png"><img src="https://raw.githubusercontent.com/Malonsog/Just/master/capturas/cap_04.png" alt="Captura de Pantalla 1" height="100"></a> &nbsp;&nbsp;
-
 - 💼 **Description:** Web page to view the goals and results of the consultants and leaders of Just, or the 'Path to Origin' promotion.
 
 
@@ -83,6 +79,14 @@ I'm always eager to learn and grow in my field. Here are some of my favorite too
 
 - 🌟 **Key Achievements:**
   - ✅ Implemented a web application to view the goals and results of the consultancy and leaders of Just, or the 'Path to Origin' promotion.
+
+
+- 📸 **Screenshots:**
+
+
+<a href="https://raw.githubusercontent.com/Malonsog/Just/master/capturas/cap_01.png"><img src="https://raw.githubusercontent.com/Malonsog/Just/master/capturas/cap_01.png" alt="Captura de Pantalla 1" height="100"></a> &nbsp;&nbsp;
+<a href="https://raw.githubusercontent.com/Malonsog/Just/master/capturas/cap_03.png"><img src="https://raw.githubusercontent.com/Malonsog/Just/master/capturas/cap_03.png" alt="Captura de Pantalla 1" height="100"></a> &nbsp;&nbsp;
+<a href="https://raw.githubusercontent.com/Malonsog/Just/master/capturas/cap_04.png"><img src="https://raw.githubusercontent.com/Malonsog/Just/master/capturas/cap_04.png" alt="Captura de Pantalla 1" height="100"></a> &nbsp;&nbsp;
 
 ---
 
@@ -101,6 +105,30 @@ I'm always eager to learn and grow in my field. Here are some of my favorite too
 
 - 🌟 **Key Achievements:**
   - ✅ I´m currently advancing through the **50 days of Python** book, a challenge a day (more or less) to improve my Python skills.
+
+---
+
+### [OnBreakv2](https://github.com/Malonsog/OnBreakv2)
+
+- 💼 **Description:** Desktop application developed in C# tailored for efficient management of clients and contracts within the corporate events company "OnBreak".
+
+
+- 🛠️ **Technologies Used:**&nbsp;&nbsp;
+<a href="https://dotnet.microsoft.com/" target="_blank"><img alt="dotnet" height="42" width="42" src="https://cdn.simpleicons.org/dotnet/#3776AB/ffffff" /></a> &nbsp;&nbsp;
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img alt="C#" height="42" width="42" src="https://cdn.simpleicons.org/csharp/#3776AB/ffffff" /></a> &nbsp;&nbsp;
+<a href="https://www.oracle.com/cl/database/sqldeveloper/" target="_blank"><img alt="Oracle" height="42" width="42" src="https://cdn.simpleicons.org/oracle/#3776AB/ffffff" /></a> &nbsp;&nbsp;
+
+
+- 🌟 **Key Achievements:**
+  - ✅ Implemented a web application to view the goals and results of the consultancy and leaders of Just, or the 'Path to Origin' promotion.
+
+
+- 📸 **Screenshots:**
+
+<img src="https://raw.githubusercontent.com/Malonsog/OnBreakv2/main/img/img_2.png" alt="Splash screen" height="100">&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Malonsog/OnBreakv2/main/img/img.png" alt="Main screen" height="100">&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Malonsog/OnBreakv2/main/img/img_1.png" alt="Business CRUD" height="100">&nbsp;&nbsp;
+
 
 ---
 
