@@ -1,7 +1,6 @@
 # Manuel Alonso - Software Engineer 🚀
 
 ---
-
 ## Table of Contents
 
 - [👋 About me](#-about-me)
@@ -12,7 +11,6 @@
 - [📬 Contact Information](#-contact-information)
 
 ---
-
 ## 👋 About me
 
 Hello! I'm Manuel Alonso, a Software Engineer on a journey to master the art of programming. 
@@ -22,7 +20,6 @@ I'm passionate about learning and applying my skills to real-world projects, act
 This README is a glimpse into my journey and what I have to offer.
 
 ---
-
 ## 🌱 Learning Journey
 
 🚀 I'm on a continuous learning journey, and I love every step of it! Here's how I'm progressing:
@@ -33,7 +30,6 @@ This README is a glimpse into my journey and what I have to offer.
 - 🌐 **Community:** I'm a member of developer communities, always learning from others.
 
 ---
-
 ## 🔨 Favorite Languages and Tools
 
 I'm always eager to learn and grow in my field. Here are some of my favorite tools and languages:
@@ -53,15 +49,13 @@ I'm always eager to learn and grow in my field. Here are some of my favorite too
 <a href="https://powerbi.microsoft.com" target="_blank"><img alt="Power BI" height="42" width="42" src="https://cdn.simpleicons.org/powerbi/#3776AB/ffffff" /></a> &nbsp;&nbsp;
 <a href="https://www.jetbrains.com/" target="_blank"><img alt="JetBrains" height="42" width="42" src="https://cdn.simpleicons.org/jetbrains/#3776AB/ffffff" /></a> &nbsp;&nbsp;
 
-### Other skills
-
+### Other skills:
 - **Problem-Solving:** There's nothing I love more than a good puzzle. I'm always developing my problem-solving skills.
 - **Collaboration:** I'm a team player, ready to work with others and contribute effectively.
 - **Leadership:** I have experience in team leadership, and always strive to inspire and guide teams towards success and creating a fun working environment.
 - **Communication:** I have excellent communication skills, and I'm always willing to learn and improve my communication skills.
 
 ---
-
 ## 👨‍💼 Latest Projects
 
 ### [Just - Camino al Origen](https://github.com/Malonsog/Just)
@@ -89,7 +83,6 @@ I'm always eager to learn and grow in my field. Here are some of my favorite too
 <a href="https://raw.githubusercontent.com/Malonsog/Just/master/capturas/cap_04.png"><img src="https://raw.githubusercontent.com/Malonsog/Just/master/capturas/cap_04.png" alt="Captura de Pantalla 1" height="100"></a> &nbsp;&nbsp;
 
 ---
-
 ### [50 days of Python](https://github.com/Malonsog/50_days_of_python)
 
 <a href="https://raw.githubusercontent.com/Malonsog/50_days_of_python/main/50_days_of_Python.png"><img src="https://raw.githubusercontent.com/Malonsog/50_days_of_python/main/50_days_of_Python.png" alt="50 days of Python book" height="100"></a>
@@ -107,7 +100,6 @@ I'm always eager to learn and grow in my field. Here are some of my favorite too
   - ✅ I´m currently advancing through the **50 days of Python** book, a challenge a day (more or less) to improve my Python skills.
 
 ---
-
 ### [OnBreakv2](https://github.com/Malonsog/OnBreakv2)
 
 - 💼 **Description:** Desktop application developed in C# tailored for efficient management of clients and contracts within the corporate events company "OnBreak".
@@ -129,9 +121,7 @@ I'm always eager to learn and grow in my field. Here are some of my favorite too
 <img src="https://raw.githubusercontent.com/Malonsog/OnBreakv2/main/img/img.png" alt="Main screen" height="100">&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/Malonsog/OnBreakv2/main/img/img_1.png" alt="Business CRUD" height="100">&nbsp;&nbsp;
 
-
 ---
-
 ## 🎓 Education
 
 - 🎓 **Computer Engineering Degree**
@@ -147,13 +137,11 @@ I'm always eager to learn and grow in my field. Here are some of my favorite too
   - [Process Data from Dirty to Clean](https://www.coursera.org/account/accomplishments/records/HKHRHFKWTKZZ): 2024
 
 ---
-
 ## 📬 Contact Information
 
-- ✉️ **Email:** [manuel.alonso.g@gmail.com](mailto:manuel.alonso.g@gmail.com)
-- 🌐 **LinkedIn:** [Profile](https://www.linkedin.com/in/m-alonso/)
+- ✉️ &nbsp; [manuel.alonso.g@gmail.com](mailto:manuel.alonso.g@gmail.com)
+- 🌐 &nbsp; [LinkedIn Profile](https://www.linkedin.com/in/m-alonso/)
 
 Feel free to reach out to me if you'd like to connect, share insights, or explore collaboration opportunities. 
 I'm excited to continue my journey and learn alongside passionate individuals in the tech community! 🚀
-
 ---
