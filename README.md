@@ -111,8 +111,8 @@ I'm always eager to learn and grow in my field. Here are some of my favorite too
 <a href="https://www.oracle.com/cl/database/sqldeveloper/" target="_blank"><img alt="Oracle" height="42" width="42" src="https://cdn.simpleicons.org/oracle/#3776AB/ffffff" /></a> &nbsp;&nbsp;
 
 
-- 🌟 **Key Achievements:**
-  - ✅ Implemented a web application to view the goals and results of the consultancy and leaders of Just, or the 'Path to Origin' promotion.
+- 🌟 **Key Achievements:** 
+  - ✅ Implemented a desktop application on C# to manage clients and contracts within the corporate events company "OnBreak".
 
 
 - 📸 **Screenshots:**
